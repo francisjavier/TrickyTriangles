@@ -1,0 +1,6 @@
+c:\users\francisco\documents\visual studio 2015\Projects\TrickyTriangles\TrickyTriangles\bin\Debug\TrickyTriangles.exe.config
+c:\users\francisco\documents\visual studio 2015\Projects\TrickyTriangles\TrickyTriangles\bin\Debug\TrickyTriangles.exe
+c:\users\francisco\documents\visual studio 2015\Projects\TrickyTriangles\TrickyTriangles\bin\Debug\TrickyTriangles.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\TrickyTriangles\TrickyTriangles\obj\Debug\TrickyTriangles.csprojResolveAssemblyReference.cache
+c:\users\francisco\documents\visual studio 2015\Projects\TrickyTriangles\TrickyTriangles\obj\Debug\TrickyTriangles.exe
+c:\users\francisco\documents\visual studio 2015\Projects\TrickyTriangles\TrickyTriangles\obj\Debug\TrickyTriangles.pdb
